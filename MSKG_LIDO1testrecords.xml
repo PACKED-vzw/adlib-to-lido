@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lido>
+        <lido:lidoRecID lido:source="PACKED" lido:type="local" lido:label="Adlib database number">310002974</lido:lidoRecID>
+        <lido:objectPublishedID lido:source="MSKG" lido:type="WorkPID" lido:label="WorkPID">[WorkPID]</lido:objectPublishedID>
+        <lido:descriptiveMetadata xml:lang="nl-NL">
+            <lido:objectClassificationWrap>
+                <lido:objectWorkTypeWrap>
+                    <lido:objectWorkType>
+                        <lido:conceptID lido:type="local" lido:label="Adlib database number">310016226</lido:conceptID>
+                        <lido:term>olieverfschilderij</lido:term>
+                    </lido:objectWorkType>
+                </lido:objectWorkTypeWrap>
+                <lido:classificationWrap>
+                    <lido:classification>
+                        <lido:term>schilderingen</lido:term>
+                    </lido:classification>
+                </lido:classificationWrap>
+            </lido:objectClassificationWrap>
+            <lido:objectIdentificationWrap>
+                <lido:titleWrap>
+                    <lido:titleSet>
+                        <lido:appellationValue>Naderend onweer</lido:appellationValue>
+                    </lido:titleSet>
+                    <lido:titleSet>
+                        <lido:appellationValue>Paysage orageux</lido:appellationValue>
+                    </lido:titleSet>
+                    <lido:titleSet>
+                        <lido:appellationValue>The Approaching Storm</lido:appellationValue>
+                    </lido:titleSet>
+                </lido:titleWrap>
+                <lido:repositoryWrap>
+                    <lido:repositorySet>
+                        <lido:repositoryName>
+                            <lido:legalBodyID lido:type="ISIL">BE-GET03</lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue>Museum voor Schone Kunsten Gent (MSKG)</lido:appellationValue>
+                            </lido:legalBodyName>
+                        </lido:repositoryName>
+                        <lido:workID lido:type="object number">1812-A</lido:workID>
+                    </lido:repositorySet>
+                </lido:repositoryWrap>
+            </lido:objectIdentificationWrap>
+            <lido:eventWrap>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:term>production</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310047125</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Jonghe, Jean-Baptiste De</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>
+</lido:term>
+                                </lido:roleActor>
+                                <lido:attributionQualifierActor/>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>circa;1812;;</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:term>acquisition</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310000831</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Jonghe, Jan Baptiste De</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>repeller</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310014492</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Museum voor Schone Kunsten Gent</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>acquirer</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>;1812</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:place>
+                                <lido:placeID lido:type="local" lido:label="Adlib database number">310031838</lido:placeID>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>
+    Gent, Salon van Gent</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventMethod>
+                            <lido:conceptID lido:type="local" lido:label="Adlib database number">310031861</lido:conceptID>
+                            <lido:term>
+        wedstrijd</lido:term>
+                        </lido:eventMethod>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:term>provenance</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310043365</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Koninklijk Academie voor Schone Kunsten (Gent)</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>repeller</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310014492</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Museum voor Schone Kunsten Gent</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>acquirer</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>;</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:place>
+                                <lido:placeID lido:type="local" lido:label="Adlib database number">310031838</lido:placeID>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>Gent, Salon van Gent</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventMethod>
+                            <lido:conceptID lido:type="local" lido:label="Adlib database number">310032944</lido:conceptID>
+                            <lido:term>overdracht</lido:term>
+                        </lido:eventMethod>
+                        <lido:eventDescriptionSet>
+                            <lido:descriptiveNoteValue>eerste prijs landschapschilderkunst, Salon van Gent, 1812, nr. 188</lido:descriptiveNoteValue>
+                        </lido:eventDescriptionSet>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:term>provenance</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310000831</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Jonghe, Jan Baptiste De</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>repeller</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="local" lido:label="Adlib database number">310002999</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Koninklijke Academie voor Schone Kunsten (Gent)</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>acquirer</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>1812;</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:place>
+                                <lido:placeID lido:type="local" lido:label="Adlib database number">310031838</lido:placeID>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>Gent, Salon van Gent</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventMethod>
+                            <lido:conceptID lido:type="local" lido:label="Adlib database number">310031861</lido:conceptID>
+                            <lido:term>wedstrijd</lido:term>
+                        </lido:eventMethod>
+                        <lido:eventDescriptionSet>
+                            <lido:descriptiveNoteValue>eerste prijs landschapschilderkunst, Salon van Gent, 1812, nr. 188</lido:descriptiveNoteValue>
+                        </lido:eventDescriptionSet>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventID lido:type="local reference number"/>
+                        <lido:eventID lido:type="local catalogue number">188</lido:eventID>
+                        <lido:eventID lido:type="local" lido:label="Adlib database number"/>
+                        <lido:eventType>
+                            <lido:term>exhibition</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue/>
+                        </lido:eventName>
+                        <lido:eventDate>
+                            <lido:displayDate>;</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:place>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>;</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventDescriptionSet>
+                            <lido:descriptiveNoteValue>eerste prijs in de wedstrijd landschapschilderkunst van de Koninklijke Academie voor Schone Kunsten, Salon van Gent, 1812, nr. 188, anoniem geëxposeerd met het devies: "Materies semper bona est / Sed artificis potest superare vires"</lido:descriptiveNoteValue>
+                        </lido:eventDescriptionSet>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventID lido:type="local reference number">310004388</lido:eventID>
+                        <lido:eventID lido:type="local catalogue number"/>
+                        <lido:eventID lido:type="local" lido:label="Adlib database number">310004388</lido:eventID>
+                        <lido:eventType>
+                            <lido:term>exhibition</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue>Om en rond het neo-classicisme in België  1770-1830</lido:appellationValue>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Gemeentemuseum (Elsene)</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>organiser</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>1985-11-14;1986-02-08</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate/>
+                                <lido:latestDate/>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:place>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>Elsene;</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventDescriptionSet>
+                            <lido:descriptiveNoteValue/>
+                        </lido:eventDescriptionSet>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventID lido:type="local" lido:label="Adlib database number">310023111</lido:eventID>
+                        <lido:eventType>
+                            <lido:term>publication</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue>Catalogue descriptif du Musée de la ville de Gand : précédé d'une notice historique</lido:appellationValue>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Sunaert, Adolphe Pierre</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>author</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventID lido:type="local" lido:label="Adlib database number">310018275</lido:eventID>
+                        <lido:eventType>
+                            <lido:term>publication</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue>Catalogus van het Museum van Schoone Kunsten Gent : II: Moderne Meesters</lido:appellationValue>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Chabot, Georges</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>author</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventID lido:type="local" lido:label="Adlib database number">310027048</lido:eventID>
+                        <lido:eventType>
+                            <lido:term>publication</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue>Museum voor Schone Kunsten Gent : Catalogus schilderkunst ; Deel I: 14de - 18de eeuw ; Deel II: 19de - 20ste eeuw</lido:appellationValue>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Hoozee, Robert</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term>author</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                    </lido:event>
+                </lido:eventSet>
+            </lido:eventWrap>
+        </lido:descriptiveMetadata>
+        <lido:administrativeMetadata xml:lang="nl-NL">
+            <lido:recordWrap>
+                <lido:recordID lido:type="local">310002974</lido:recordID>
+                <lido:recordType>
+                    <lido:term>item</lido:term>
+                </lido:recordType>
+                <lido:recordSource>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Museum voor Schone Kunsten Gent (MSKG)</lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:recordSource>
+            </lido:recordWrap>
+        </lido:administrativeMetadata>
+    </lido:lido>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</lido:lidoWrap>
